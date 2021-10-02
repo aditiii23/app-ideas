@@ -1,0 +1,62 @@
+## Application Idea Overview
+The Emergency Vehicle Notifer is a mobile application. 
+This applicaion will be an easy-to-use application for both android and iOS platforms which will help the people stuck in an emergency situation such as road accidents or house fire in their respective locality, etc., to call out for immediate help in their vicinity in the form of life-saving Emergency Vehicles with just a few finger-taps away from them.
+In general use, the app will be a navigation app, which will be easy, immediate, and secure to operate and help people stuck in an emergency.
+This application is useful to those who require immediate emergency assistance at their disposal as soon as possible, from victims of a road accident to prima facie of one.
+This application would also welcome anyone who can drive an emergency vehicle (e.g. ambulance car drivers, fire brigade drivers stc.) and wishes to serve in assisting out the general community in need of help.
+As this app is a navigation app, in general use, this app cam eve act as am excellent medium for the users to access navigational routes.
+
+## Deliverables
+### Front-end
+1. Creating a basic UI for the application
+2. Landing Page
+3. Signup/ Signin in interface
+4. Navigation/ Raise an Emergency Page
+5. Form to Raise an Emergency
+6. Emergencies listing page
+7. Call to action form for accepting an Emergency
+8. User Profiles Page
+
+### Back-end
+1. Signup/ signin in Route
+2. Navigtion API set-up
+3. Places API set-up
+4. Create Emergency Route
+5. Subscription to notify Emergency vehicle drivers
+6. Accept Emergency routes
+7. Decline Emergency routes
+8. CRUP operations to user-profile management
+9. Firebase push notifications
+
+## Technical Feasibility
+This project consists of 2 major components. 
+
+### The frst one is the REST API
+
+The tools and technologies needed for deveoping the API are :
+1. Firebase
+2. Express.js
+3. Node.js
+4. Web API
+5. Chai.js
+6. Google Maps API
+7. Google Places API
+8. Google Directions API
+9. Software engineering paradigms
+
+### The second comoponent of the project is the cross-platform mobile client
+The tools and tehcnologies needed for developing this client are :
+1. Firebase 
+2. Flutter
+3. Dart
+4. Provider.dart and Riverpod
+Each of these technologies are freely availabke and the tehcnical skills required are manageable. Time limitatioms and the ease of implementing using these technologies are synchronized and are negligible.
+
+## Resources
+Resources that are required for the proper implementation of this project are :
+1. Programming devices like personal computers, workstations, or laptops.
+2. Hosting space on the local domain (freely available)
+3. Programming tools
+4. Programming inviduals
+5. Web and Hosting services for client-server flow and the time required to store and process this information is neglible for the modern-day processorswhich work at very high clock speed.
+6. Firebase Storage for cloud storage (freely available for the development phase)
